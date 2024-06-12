@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/light" name="light-trees/device_xiaomi_light.git" remote="github" revision="14 />
+ <project path="vendor/xiaomi" name="light-trees/vendor_xiaomi_light.git" remote="github" revision="14" />
+ <project path="kernel/xiaomi/light" name="ramshell68/device_xiaomi_light-kernel" remote="github" revision="4.19" />
+ 
+</manifest>

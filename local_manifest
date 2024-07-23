@@ -3,7 +3,7 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/light" name="light-trees/device_xiaomi_light.git" remote="github" revision="14 />
- <project path="vendor/xiaomi" name="MTK-DM-810-UNIFIED/vendor_xiaomi_mt6833-common.git" remote="github" revision="lineage-21" />
+ <project path="vendor/xiaomi" name="light-trees/vendor_xiaomi_light.git" remote="github" revision="14" />
  <project path="kernel/xiaomi/light" name="ramshell68/device_xiaomi_light-kernel" remote="github" revision="4.19" />
  
 </manifest>
